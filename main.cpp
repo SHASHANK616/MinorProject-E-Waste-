@@ -2,7 +2,7 @@
 #include <vector>
 
 using namespace std;
-
+ 
 // Function to calculate the number of vehicles required
 int estimateVehicleRequirement(const vector<int>& weights, int capacity) {
     int total_weight = 0;
